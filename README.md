@@ -10,7 +10,7 @@ Aujourd’hui, je souhaite **mettre à profit mes compétences** dans une **alte
 ---
 
 ## À propos de moi
-- **Localisation :**Île-de-France**
+- **Localisation :**Île-de-France
 - **Master 1 Programme Grande École** – Excelia (2024 - 2025)  
 - **Licence 3 Programme Grande École** – Excelia (2023 - 2024)  
 - **Bachelor Business Administration** – Graduate School of Management Abidjan (2020 - 2023)
