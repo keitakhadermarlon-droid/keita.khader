@@ -50,8 +50,7 @@ Aujourd’hui, je souhaite **mettre à profit mes compétences** dans une **alte
     - Flux **cash-in / cash-out**
     - Performance des antennes par région
 - **Résultats :** Développement de dashboards dynamiques pour les équipes techniques et **aide à la prise de décision stratégique**.  
-- **Lien vers le projet :** [Voir le projet](#) *https://www.canva.com/design/DAGu0Hc88Sg/dzJ28g6pxnJxxMxtHkAgig/edit?utm_content=DAGu0Hc88Sg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton*
-
+- **Lien vers le projet :** https://www.canva.com/design/DAGu0Hc88Sg/dzJ28g6pxnJxxMxtHkAgig/edit?utm_content=DAGu0Hc88Sg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton(#) 
 ---
 
 ## Expériences professionnelles
