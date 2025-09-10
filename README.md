@@ -1,26 +1,21 @@
-# keita.khader
+# Keita.Khader
 Portfolio Data Analyste 
 
-# Khader KEITA
 
-**Alternant Business Analyst** | **Data & Business Analytics** | **Passionné par le digital et la data**  
+**Alternant Business Analyste**
 
 Bienvenue sur mon portfolio
-Je suis actuellement **étudiant en Master 1 Programme Grande École** à **Excelia**, avec une spécialisation orientée **data**, **business analytics** et **stratégie digitale**.  
-Je recherche une **alternance** afin de développer mes compétences en **analyse de données**, **visualisation** et **outils digitaux**.
-
+Je suis **étudiant en Master 1 Programme Grande École** à **Excelia**, avec une spécialisation orientée **data**, **business analytics** et intellignce artificielle**  
+Aujourd’hui, je souhaite **mettre à profit mes compétences** dans une **alternance**, afin de contribuer à des **projets digitaux innovants*
 ---
 
 ## À propos de moi
-- **Nom :** Khader KEITA  
-- **Localisation :** Paris, France  
-- **Email :** [keitakhadermarlon@gmail.com](mailto:keitakhadermarlon@gmail.com)  
-- **Téléphone :** 07 43 69 82 62  
-- **LinkedIn :** [linkedin.com/in/khaderkeita](#) *(ajoute ton lien)*  
-- **Portfolio Notion :** [Mon Portfolio](#) *(ajoute le lien quand il sera prêt)*  
-- **Disponibilité :** Immédiate  
-- **Rythme d’alternance :** 3 semaines en entreprise / 1 semaine à l’école  
-
+- **Localisation :**Île-de-France**
+- **Master 1 Programme Grande École** – Excelia (2024 - 2025)  
+- **Licence 3 Programme Grande École** – Excelia (2023 - 2024)  
+- **Bachelor Business Administration** – Graduate School of Management Abidjan (2020 - 2023)
+- **Disponibilité :**Immédiate** 
+- **Rythme d’alternance :** 3 semaines en entreprise / 1 semaine à l’école
 ---
 
 ## Compétences
@@ -34,12 +29,11 @@ Je recherche une **alternance** afin de développer mes compétences en **analys
 ### **Business & Digital**
 - Business Analytics & KPIs
 - Transformation digitale
-- Marketing data-driven
+- Marketing stratégique 
 
 ### **Soft Skills**
 - Esprit analytique  
-- Curiosité  
-- Travail en équipe  
+- Curiosité   
 - Gestion de projet  
 
 ---
@@ -56,23 +50,7 @@ Je recherche une **alternance** afin de développer mes compétences en **analys
     - Flux **cash-in / cash-out**
     - Performance des antennes par région
 - **Résultats :** Développement de dashboards dynamiques pour les équipes techniques et **aide à la prise de décision stratégique**.  
-- **Lien vers le projet :** [Voir le projet](#) *(à ajouter)*
-
----
-
-### **2. Analyse des ventes annuelles** — *Volta Charge SAS* *(2024)*
-- **Objectif :** Identifier les zones et produits les plus performants.
-- **Outils :** Python, Pandas, Matplotlib
-- **Résultat :** +15 % d’efficacité dans la stratégie commerciale.  
-- **Lien vers le projet :** [Voir le projet](#) *(à ajouter)*
-
----
-
-### **3. Dashboards financiers automatisés** *(Projet personnel)*
-- **Objectif :** Automatiser la **visualisation des indicateurs financiers**.
-- **Outils :** Dash, Plotly, Python
-- **Résultat :** Réduction de **40 %** du temps consacré au reporting.  
-- **Lien vers le projet :** [Voir le projet](#) *(à ajouter)*
+- **Lien vers le projet :** [Voir le projet](#) *https://www.canva.com/design/DAGu0Hc88Sg/dzJ28g6pxnJxxMxtHkAgig/edit?utm_content=DAGu0Hc88Sg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton*
 
 ---
 
@@ -81,7 +59,6 @@ Je recherche une **alternance** afin de développer mes compétences en **analys
 - **Agent commercial** — *Volta Charge SAS* *(2024)*  
 - **Assistant Éducation** — *CIV’S Nairobi* *(2024)*  
 - **Serveur** — *Hôtel Mercure Tours* *(2021-2023)*  
-- **DJ & Organisateur d’événements** — *Jacker’s Abidjan* *(2021-2023)*  
 
 ---
 
@@ -89,7 +66,6 @@ Je recherche une **alternance** afin de développer mes compétences en **analys
 - **Email :** [keitakhadermarlon@gmail.com](mailto:keitakhadermarlon@gmail.com)
 - **Téléphone :** 07 43 69 82 62
 - **LinkedIn :** [linkedin.com/in/khaderkeita](#)
-- **Portfolio :** [Mon Portfolio Notion](#)
 
 ---
 
