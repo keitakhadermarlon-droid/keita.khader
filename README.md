@@ -5,8 +5,8 @@ Portfolio Data Analyste
 **Alternant Business Analyste**
 
 Bienvenue sur mon portfolio
-Je suis **étudiant en Master 1 Programme Grande École** à **Excelia**, avec une spécialisation orientée **data**, **business analytics** et intellignce artificielle**  
-Aujourd’hui, je souhaite **mettre à profit mes compétences** dans une **alternance**, afin de contribuer à des **projets digitaux innovants
+Je suis étudiant en Master 1 Programme Grande École à Excelia, avec une spécialisation orientée data, business analytics et intellignce artificielle 
+Aujourd’hui, je souhaite **mettre à profit mes compétences dans une alternance, afin de contribuer à des projets digitaux innovants
 ---
 
 ## À propos de moi
