@@ -6,17 +6,17 @@ Portfolio Data Analyste
 
 Bienvenue sur mon portfolio
 Je suis étudiant en Master 1 Programme Grande École à Excelia, avec une spécialisation orientée data, business analytics et intellignce artificielle 
-Aujourd’hui, je souhaite **mettre à profit mes compétences dans une alternance, afin de contribuer à des projets digitaux innovants
----
+Aujourd’hui, je souhaite mettre à profit mes compétences dans une alternance, afin de contribuer à des projets digitaux innovants
+
 
 ## À propos de moi
-- **Localisation :Île-de-France
-- **Master 1 Programme Grande École** – Excelia (2024 - 2025)  
-- **Licence 3 Programme Grande École** – Excelia (2023 - 2024)  
-- **Bachelor Business Administration** – Graduate School of Management Abidjan (2020 - 2023)
-- **Disponibilité :**Immédiate** 
-- **Rythme d’alternance :** 3 semaines en entreprise / 1 semaine à l’école
----
+- Localisation :Île-de-France
+- Master 1 Programme Grande École – Excelia (2024 - 2025)  
+- Licence 3 Programme Grande École – Excelia (2023 - 2024)  
+- Bachelor Business Administration – Graduate School of Management Abidjan (2020 - 2023)
+- Disponibilité :Immédiate 
+- Rythme d’alternance : 3 semaines en entreprise / 1 semaine à l’école
+
 
 ## Compétences
 
