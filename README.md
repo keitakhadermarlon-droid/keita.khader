@@ -11,7 +11,6 @@ Data Analyst ambitieux spécialisé en Business Analytics, avec forte expertise 
 - Licence 3 Programme Grande École – Excelia (2023 - 2024)  
 - Bachelor Business Administration – Graduate School of Management Abidjan (2020 - 2023)
 - Disponibilité :Immédiate 
-- Rythme d’alternance : 3 semaines en entreprise / 1 semaine à l’école
 
 
 ## Compétences
