@@ -65,7 +65,7 @@ Data Analyst ambitieux spécialisé en Business Analytics, avec forte expertise 
 ---
 
 ## Objectif
-Rejoindre une **équipe dynamique** pour contribuer à des **projets innovants** dans le domaine de la **data**, du **business analytics** et de la **transformation digitale
+Rejoindre une **équipe dynamique** pour contribuer à des **projets innovants** dans le domaine de la **data**, du **business analytics** et de la transformation digitale
 
 ---
 
