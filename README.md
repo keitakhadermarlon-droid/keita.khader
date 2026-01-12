@@ -2,11 +2,7 @@
 Portfolio Data Analyste 
 
 
-**Alternant Business Analyste**
-
-Bienvenue sur mon portfolio
-Je suis étudiant en Master 1 Programme Grande École à Excelia, avec une spécialisation orientée data, business analytics et intellignce artificielle 
-Aujourd’hui, je souhaite mettre à profit mes compétences dans une alternance, afin de contribuer à des projets digitaux innovants
+Data Analyst ambitieux spécialisé en Business Analytics, avec forte expertise en Python, SQL et visualisation de données. Expérience concrète en consolidation de datasets volumétriques, analyse exploratoire et machine learning appliqué. Recherche un stage de 6 mois immédiatement pour accélérer acquisition de compétences en data science avancée et intelligence artificielle. Passionné par la transformation data-driven des organisations. Disponible pour prise de poste rapide. Autonome, rigoureux, orienté résultats.
 
 
 ## À propos de moi
